@@ -17,6 +17,7 @@ public class AutoPackageMain {
                 new SpringApplication(AutoPackageMain.class);
         app.setBannerMode(Banner.Mode.OFF);
         app.setLogStartupInfo(false);
+        
         String[] args = {"--debug"};
         ConfigurableApplicationContext c = app.run(args);
         List<String> packages = AutoConfigurationPackages.get(c);

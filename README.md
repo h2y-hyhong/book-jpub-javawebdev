@@ -1,4 +1,4 @@
-# 스프링부트로 배우는 자바 웹 서비스
+# [제이펍] 스프링부트로 배우는 자바 웹 서비스
 here is  book example
 
 <img src="https://i.imgur.com/yfYoywG.jpg"  width="350" height="450"/>
